@@ -1,6 +1,6 @@
 # Rothko painting
 
-> Rothko painting: An fcc project built with html and css
+> Rothko painting: An fcc project built with html5 and css3
 
 ![screenshot](./app_screenshot.png)
 
